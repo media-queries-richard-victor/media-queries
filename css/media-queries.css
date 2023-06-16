@@ -11,7 +11,10 @@ section.container a {
     text-align: center;
     text-decoration: unset;
     color: inherit;
+    margin: 25px;
 }
+
+
 section.container {
     height: 80px;
     border: 1px solid black;
