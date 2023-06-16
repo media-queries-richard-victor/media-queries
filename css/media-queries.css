@@ -35,12 +35,22 @@ header nav {
 }
 
 header nav ul {
+
+    margin: 2px;
     list-style: none;
 }
 
 header nav li {
-    height: 80px;
-    background-color: #ccffff;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: 600px;
+    background-color: #cccccc;
     position: relative;
     margin: 16px;
+}
+
+header ul.nav-links {
+    margin: 4px;
 }
