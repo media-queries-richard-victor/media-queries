@@ -73,3 +73,10 @@ header div.a {
     margin: 6px;
     padding: 4px
 }
+
+section.image {
+    width: 300px; /* Set the desired width */
+    height: auto; /* Let the height adjust automatically to maintain aspect ratio */
+}
+
+
