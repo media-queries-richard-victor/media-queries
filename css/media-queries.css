@@ -40,7 +40,6 @@ header nav ul {
 
 header nav li {
     height: 80px;
-    border: 1px solid black;
     background-color: #ccffff;
     position: relative;
     margin: 16px;
