@@ -11,7 +11,7 @@ section.container a {
     text-align: center;
     text-decoration: unset;
     color: inherit;
-    margin: 1px;
+    /*margin: 1px;*/
 }
 
 
@@ -74,9 +74,16 @@ header div.a {
     padding: 4px
 }
 
-section.image {
-    width: 300px; /* Set the desired width */
-    height: auto; /* Let the height adjust automatically to maintain aspect ratio */
+section img {
+    width: 339px;
+    height: 224px;
+
+}
+
+section.hero {
+    display: flex;
+    justify-content: center;
+    min-height: unset;
 }
 
 
