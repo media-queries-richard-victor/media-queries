@@ -1,10 +1,112 @@
+<<<<<<< HEAD
 /*@media screen and (max-width:761px) {*/
+=======
+/*@media screen and (max-width:600px) {*/
+/*    body {*/
+/*        font-family: "Roboto", sans-serif;*/
+/*    }*/
+
+
+>>>>>>> d60dc311fbe4dac9974d1d759cd353753e9d85de
 /*    section.container a {*/
 /*        display: flex;*/
 /*        justify-content: center;*/
-/*        align-items: center;*/
+/*        text-align: center;*/
+/*        text-decoration: unset;*/
+/*        color: inherit;*/
+
+/*        !*margin: 1px;*!*/
 /*    }*/
+
+
+/*    section.container {*/
+/*        height: 50px;*/
+/*        border: 1px solid black;*/
+/*        background-color: #ccffff;*/
+/*        position: relative;*/
+/*        margin: 10px;*/
+/*    }*/
+
+/*    header h1 {*/
+/*        display: flex;*/
+/*        justify-content: center;*/
+/*        margin: 2px;*/
+
+/*    }*/
+
+/*    header nav {*/
+/*        display: flex;*/
+/*        justify-content: center;*/
+/*        margin: 8px;*/
+/*    }*/
+
+/*    header nav li a {*/
+/*        display: flex;*/
+/*        justify-content: center;*/
+/*        align-items: center;*/
+/*        margin: 25px;*/
+/*    }*/
+
+/*    div.column {*/
+/*        margin: 8px;*/
+/*        padding: 6px;*/
+/*    }*/
+
+/*    header nav ul li {*/
+/*        width: 400px;*/
+/*        height: 50px;*/
+/*        background-color: #cccccc;*/
+/*        position: relative;*/
+/*        margin: 16px;*/
+/*        padding: 8px;*/
+/*    }*/
+/*    header nav ul li a {*/
+/*        margin: 6px;*/
+
+/*    }*/
+
+
+/*    header nav ul {*/
+/*        margin: 2px;*/
+/*        list-style: none;*/
+/*        padding: 12px;*/
+/*    }*/
+
+/*    header div.a {*/
+/*        margin: 6px;*/
+/*        padding: 4px*/
+/*    }*/
+
+/*    section img {*/
+/*        width: 339px;*/
+/*        height: 224px;*/
+
+/*    }*/
+
+/*    section.hero {*/
+/*        display: flex;*/
+/*        justify-content: center;*/
+/*        min-height: unset;*/
+/*    }*/
+
+/*    p {*/
+/*        font-size: 19px;*/
+/*    }*/
+
+
+/*    section {*/
+/*        margin: 15px;*/
+/*    }*/
+
+/*    section.bozo {*/
+/*        margin: 10px;*/
+/*    }*/
+
+
+
+
 /*}*/
+<<<<<<< HEAD
 section.container a {
     display: flex;
     justify-content: center;
@@ -84,3 +186,9 @@ section.alpha {
     text-align: center;
     padding: 20px;
 }
+=======
+
+
+
+
+>>>>>>> d60dc311fbe4dac9974d1d759cd353753e9d85de
