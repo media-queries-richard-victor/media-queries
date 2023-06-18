@@ -46,6 +46,9 @@ header nav ul li {
     background-color: #cccccc;
     margin: 16px;
     padding: 8px;
+    display: inline-block; /* Add this line */
+    width: 100%; /* Add this line */
+    box-sizing: border-box; /* Add this line */
 }
 
 header nav ul li a {
@@ -64,8 +67,10 @@ header nav ul {
 }
 
 header div.a {
+    position: relative;
     margin: 6px;
     padding: 4px;
+    z-index: -1;
 }
 
 img {
