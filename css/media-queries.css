@@ -1,10 +1,10 @@
-/*@media screen and (max-width:761px) {*/
-/*    section.container a {*/
-/*        display: flex;*/
-/*        justify-content: center;*/
-/*        align-items: center;*/
-/*    }*/
-/*}*/
+@media screen and (max-width:576px) {
+    section.container a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
 
 
 
@@ -21,7 +21,6 @@ section.container a {
 section.container {
     height: auto;
     border: 1px solid black;
-    background-color: #ccffff;
     margin: 10px;
     padding: 8px;
 }
@@ -78,6 +77,14 @@ header div.a {
     margin: 6px;
     padding: 4px;
 
+}
+
+.header-img {
+    /*display: block;*/
+    /*max-width: 100%;*/
+    /*height: auto;*/
+    margin: unset;
+    /*background-image: cover;*/
 }
 
 img {
